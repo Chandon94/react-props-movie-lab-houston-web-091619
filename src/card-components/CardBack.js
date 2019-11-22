@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+ import React, { Component } from 'react';
 import zero from '../assets/stars/0-stars.png'
 import one from '../assets/stars/1-stars.png'
 import two from '../assets/stars/2-stars.png'
